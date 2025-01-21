@@ -3,15 +3,13 @@ global.calender = d.toLocaleDateString('id')
 
 // --------------- INFO OWNER ------------- //
 global.prefix = "." // command prefix
-global.ownNumb = "62895615063060" // isi no kalian
-global.ownName = "https://ī.am/alfisyahrial" // isi nama kalian
-global.namaCreator ="https://ī.am/alfisyahrial"
+global.ownNumb = "60166586840" // isi no kalian
+global.ownName = "https://ī.am/bobotzshaa" // isi nama kalian
+global.namaCreator ="https://ī.am/bobotzshaa"
 global.versionSc ="3.0"
-global.namaBot ="𝙁𝙄𝙓𝙓𝙀𝙉 V3"
+global.namaBot ="BOBOT OMEL"
 global.linkgc ="https://chat.whatsapp.com/L5OUiV1WF5EJLU2fDjR62C"
-global.namaproduk ="BY 𝙁𝙄𝙓𝙓𝙀𝙉"
-global.namaStore ="𝙁𝙄𝙓𝙓𝙀𝙉 𝙎𝙏𝙊𝙍𝙀"
-global.packname = '𝙁𝙄𝙓𝙓𝙀𝙉' // ubah aja ini nama sticker
+global.packname = 'SHAA' // ubah aja ini nama sticker
 global.author = 'Alfi Syl'
 
 
@@ -22,11 +20,6 @@ global.author = 'Alfi Syl'
 
 global.lol = '' // ISI APIKEY LOL HUMAN LU
 
-//_____________global payment_______//
-global.Qris = 'https://telegra.ph/file/74bb8f1625082b28c11e1.jpg'
-global.dana = '08984116728'
-global.gopay = '08984116728'
-global.scan = 'sᴄᴀɴ ǫʀɪs ᴀʟʟ ᴘᴀʏᴍᴇɴᴛ ᴅɪ ᴀᴛᴀs'
 
 //__________________ʙᴀᴛᴀs ᴘᴀʏᴍᴇɴᴛ_____________//
 
@@ -38,8 +31,8 @@ global.location = '' // id location
 
 //__________________GLOBAL TESTI_______________//
 
-global.testi ='' // ISI URL TESTI KALIAN
-global.text1 ='ITU TESTI 𝙁𝙄𝙓𝙓𝙀𝙉 KAK' // UBH AJA JADI NAMA MU
+global.testi ='test' // ISI URL TESTI KALIAN
+global.text1 ='ITU TESTI BOBOT OMEL KAK' // UBH AJA JADI NAMA MU
 global.text2 ='GA BANG? AMAN DONG' // G SH DI HPS
 
 //______________BATAS TESTI_____________//
