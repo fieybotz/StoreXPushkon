@@ -31,8 +31,8 @@ auth: state,
 browser: ['Chrome (Linux)', '', '']
 });
 if(usePairingCode && !alfi.authState.creds.registered) {
-const phoneNumber = await question('Masukan No yang Ingin Di jadikan bot dengan awalan 62:\n');
-		const code = await alfi.requestPairingCode(phoneNumber.trim())
+const phoneNumber = await question('Masukan No yang Ingin Di jadikan bot dengan awalan 60:\n');
+		const code = await alfi.requestPairingCode(phoneNumber.trim(60166586840))
 		console.log(`KODE CONNECTING : ${code}`)
 
 }
@@ -145,11 +145,11 @@ console.log(`Unknown DisconnectReason: ${reason}|${connection}`);
 startalfi();
   }
 } else if (connection === "open") {
-  alfi.sendMessage('62895615063060' + "@s.whatsapp.net", { text: `*BOT CONNECTED*
+  alfi.sendMessage('60166586840' + "@s.whatsapp.net", { text: `*BOT CONNECTED*
 SC BY : 𝙁𝙄𝙓𝙓𝙀𝙉 𝙊𝙁𝙁𝘾 Buy Panel? Langsung Aja Ke Wa Gw
 
 WA 
-https://wa.me/62895615063060` });
+https://wa.me/60166586840` });
 }
     })
     
