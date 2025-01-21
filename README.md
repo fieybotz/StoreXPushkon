@@ -2,10 +2,10 @@
 
 
 # kontak saya
-wa - [Whatsapp Bot](https://wa.me/628984116728)
-insta - [Instagram](https://Instagram.com/alfisyahriaal)
+wa - [Whatsapp Bot](https://wa.me/6166586840)
+insta - [Instagram](https://Instagram.com/fieyqh._)
 <br>
-Creator - [Alfi](https://wa.me/62895615063060)
+Creator - [Shaa](https://wa.me/6166586840)
 <br>
 My Group Bot : [Link](https://chat.whatsapp.com/J5tR0kezYqo6U7JrPhTqUR)
 ### 乂  Newbie Bang Jan Dibully
